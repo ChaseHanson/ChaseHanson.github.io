@@ -1,2 +1,3 @@
 name: C. J. Hanson's personal website
 markdown: kramdown
+permalink: /blog/:title #now pages will live here
